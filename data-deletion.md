@@ -12,7 +12,8 @@ To have that information removed:
 3. We will delete the stored comments and any record of your name and Facebook ID from the app, and
    reply to confirm, normally within 30 days.
 
-You can also delete your own comment directly on Facebook. Deleting it there removes it from the Page, and the app
-will no longer receive it.
+You can also delete your own comment directly on Facebook. That removes it from the Page and from what the app
+receives going forward, but a copy the app already saved may remain until it is deleted, so email us if you want that
+copy removed too.
 
 For how information is used, see the [Privacy Policy](privacy).

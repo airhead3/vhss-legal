@@ -47,7 +47,8 @@ Comment information is kept until the operator deletes it, and is deleted on req
 
 If you commented on a Page post and want the app's copy of your comment or name removed, follow the steps in
 [User Data Deletion Instructions](data-deletion), or contact us at the address below. You can also delete your own
-comment on Facebook at any time, which removes it from the Page.
+comment on Facebook at any time, which removes it from the Page (a copy the app already saved may remain until it is
+deleted on request).
 
 ## Changes
 
