@@ -1,6 +1,6 @@
 # Privacy Policy: Van Halen Song Showdown ("Showdown" app)
 
-_Last updated: 
+_Last updated: November 24, 2026_
 
 The "Showdown" app is a private tool used by the operator of the **Van Halen Song Showdown** Facebook Page
 (the "Page") to publish its posts and to read and reply to comments on them. It is not a public app: no one
